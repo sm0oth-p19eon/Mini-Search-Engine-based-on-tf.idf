@@ -29,7 +29,7 @@ This project involves implementing a variant of the Vector Space retrieval model
 
 \```
 $ py SearchEngine.py [-arg1] [-arg2]
-```\
+\```
 
 arg1 is the name of the source document collection. arg2 is a flag indicating wether to create a new index or use existing indices.
 
